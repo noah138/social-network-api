@@ -27,9 +27,9 @@ Run the server using the following command:
 ```
     $ node server.js
 ```
-All of the application's API routes are are successfully demonstrated in Insomnia in the video below:
+All of the application's API routes are demonstrated using Insomnia in the video below:
 
-[Click here to watch a video demonstration]https://watch.screencastify.com/v/eMNtTmJyAzGJ0IXjQTN8
+[click here to watch the demo video](https://watch.screencastify.com/v/eMNtTmJyAzGJ0IXjQTN8)
 
 ## Credits
 
